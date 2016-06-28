@@ -7,4 +7,4 @@ date,client,cost,paid,balance,status
 10/07/2016,Fin,32000,32000,0,closed
 14/11/2016,Gru,210000,0,210000,pending
 28/07/2016,Han,40000,40000,0,closed
-15/07/2016,Ivy,1200,5,open
+15/07/2016,Ivy,1200,5,1195,open
