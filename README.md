@@ -1,0 +1,3 @@
+# DataPrimer
+Just learning GitHub...
+Although I have been following other GitHub repositories, I've only just got around to going on a course to learn how to use it for myself.
