@@ -33,7 +33,7 @@ for line in f:
         statusCount += 1
 
 print "There are " + str(statusCount) + " clients with " + status + " accounts"
-print "Toatl cost = " + str(cost)
+print "Total cost = " + str(cost)
 print "Total paid = " + str(paid)
 print "Total balance = " + str(balance)
 
